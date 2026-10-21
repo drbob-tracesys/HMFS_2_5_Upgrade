@@ -1,0 +1,8 @@
+Project
+	HMFS_2_5_Upgrade.dproj
+End
+
+ProjectGroup
+	GroupCount=1
+	Project1=HMFS_2_5_Upgrade.dproj
+End

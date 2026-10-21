@@ -1,0 +1,34 @@
+# Delphi
+
+# Project-specific generated files
+*.dsk
+*.ddp
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.map
+*.tds
+*.rsm
+*.obj
+*.res
+*.local
+*.identcache
+*.stat
+*.~* 
+*.dproj.local
+*.groupproj.local
+
+# IDE caches
+__history/
+__recovery/
+Win32/
+Win64/
+Debug/
+Release/
+*.dproj.*.deploy
+
+# OS noise
+.DS_Store
+Thumbs.db
